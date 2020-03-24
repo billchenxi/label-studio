@@ -50,7 +50,7 @@
     <a href="/export" class="{% if url_for(request.endpoint) == '/export' %}active{% endif %}">Export</a>
     <span class="delim">|</span>
 
-    <a href="/setup" class="{% if url_for(request.endpoint) == '/setup' %}active{% endif %}">Setup</a>
+    {% comment %} <a href="/setup" class="{% if url_for(request.endpoint) == '/setup' %}active{% endif %}">Setup</a>
     <span class="delim">|</span>
 
     <a href="https://labelstud.io/guide/" target="_blank">Docs</a>
@@ -61,13 +61,13 @@
 
     <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLHZx5EeT1J350JPwnY2xLanfmvplJi6VZk65C2R4XSsRBHg/viewform?usp=sf_link"
        data-tooltip="If you have any troubles or suggestion just report us to Slack" data-position="bottom right"
-       target="_blank"><img src="/static/images/slack.png" height="22"/></a>
+       target="_blank"><img src="/static/images/slack.png" height="22"/></a> {% endcomment %}
 
   </ul>
 </div>
 
 {% block body %}
-  <div>Heidi is an Opossum!</div>
+  {% comment %} <div>Heidi is an Opossum!</div> {% endcomment %}
 {% endblock %}
 
 <br>
