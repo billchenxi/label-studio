@@ -7,6 +7,7 @@
     <Label value="Prevent" background="green"/>
     <Label value="Pathway" background="darkblue"/>
     <Label value="Other_useful" background="blue"/>
+    <Label value="Not_useful" background="yellow"/>
   </Labels>
   <Text name="text" value="$text"/>
 </View>
