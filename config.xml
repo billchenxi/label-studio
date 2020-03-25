@@ -1,0 +1,12 @@
+<View>
+  <Labels name="Relationship" toName="text">
+    <Label value="Protein" background="red"/>
+    <Label value="Gene" background="purple"/>
+    <Label value="Disease" background="darkorange"/>
+    <Label value="Contribute" background="orange"/>
+    <Label value="Prevent" background="green"/>
+    <Label value="Pathway" background="darkblue"/>
+    <Label value="Other_useful" background="blue"/>
+  </Labels>
+  <Text name="text" value="$text"/>
+</View>
