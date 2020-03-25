@@ -16,4 +16,4 @@ COPY . /label-studio
 
 RUN pip install -e .
 # CMD ["label-studio", "start", "my_project", "--init"]
-CMD ["label-studio", "start", "my_project", "--init", "--no-browser", "--label-config", "config.xml" "--port", "8080"]
+CMD ["label-studio", "start", "my_project", "--init", "--no-browser", "--label-config=config.xml", "--port", "8080"]
