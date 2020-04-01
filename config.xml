@@ -6,7 +6,9 @@
     <Label value="Contribute" background="orange"/>
     <Label value="Prevent" background="green"/>
     <Label value="Pathway" background="darkblue"/>
-    <Label value="Other_useful" background="blue"/>
+    <Label value="Tissue_type" background="blue"/>
+    <Label value="Age" background="#428">
+    <Label value="Other_useful" background="#842"/>
     <Label value="Not_useful" background="yellow"/>
   </Labels>
   <Text name="text" value="$text"/>
