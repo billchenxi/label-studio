@@ -6,8 +6,10 @@
     <Label value="Contribute" background="orange"/>
     <Label value="Prevent" background="green"/>
     <Label value="Pathway" background="darkblue"/>
-    <Label value="Tissue_type" background="blue"/>
-    <Label value="Age" background="#428">
+    <Label value="Tissue Types/Organ System" background="blue"/>
+    <Label value="Cell Type" background="#428"/>
+    <Label value="Life Stage" background="#482"/>
+    <Label value="Assay/Technique" background="rgba(0,0,0,0.8)"/>
     <Label value="Other_useful" background="#842"/>
     <Label value="Not_useful" background="yellow"/>
   </Labels>
