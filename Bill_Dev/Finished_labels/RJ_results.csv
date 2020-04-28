@@ -1,0 +1,14 @@
+,end,labels,start,text,ID
+0,250,['Gene'],235,TRIP4 and ASCC1,PMID: 26924529
+1,327,['Protein'],322,,PMID: 26924529
+2,527,['Disease'],483,,PMID: 26924529
+3,651,['Disease'],529,,PMID: 26924529
+4,1659,['Pathway'],1610,,PMID: 26924529
+5,1726,['Pathway'],1710,bone development,PMID: 26924529
+6,1587,['Prevent'],1574,,PMID: 26924529
+7,1573,['Cell Type'],1549,,PMID: 26924529
+0,90,['Protein'],82,monokine,PMID: 15178708
+1,195,['Protein'],164,,PMID: 15178708
+2,258,['Protein'],201,,PMID: 15178708
+3,750,['Prevent'],590,,PMID: 15178708
+4,1130,['Pathway'],1083,,PMID: 15178708

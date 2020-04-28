@@ -1,0 +1,174 @@
+,end,labels,start,text,ID
+0,218,['Disease'],208,,PMID: 26894518
+1,579,['Assay/Technique'],576,,PMID: 26894518
+2,600,['Assay/Technique'],584,,PMID: 26894518
+3,678,['Tissue Types/Organ System'],675,,PMID: 26894518
+4,767,['Protein'],747,erythropoietin (EPO),PMID: 26894518
+5,780,['Contribute'],771,,PMID: 26894518
+6,974,['Life Stage'],955,,PMID: 26894518
+7,152,['Life Stage'],135,,PMID: 26894518
+8,284,['Contribute'],277,,PMID: 26894518
+9,1100,['Protein'],1097,,PMID: 26894518
+10,1299,['Assay/Technique'],1257,,PMID: 26894518
+11,1373,['Assay/Technique'],1350,,PMID: 26894518
+12,1378,['Assay/Technique'],1375,,PMID: 26894518
+13,1401,['Assay/Technique'],1384,,PMID: 26894518
+14,1530,['Assay/Technique'],1483,,PMID: 26894518
+15,63,['Disease'],35,,PMID: 26894518
+16,1745,['Assay/Technique'],1742,,PMID: 26894518
+17,1805,['Assay/Technique'],1793,,PMID: 26894518
+18,1830,['Protein'],1818,,PMID: 26894518
+19,1958,['Protein'],1951,,PMID: 26894518
+20,1950,['Tissue Types/Organ System'],1932,,PMID: 26894518
+21,1996,['Protein'],1984,,PMID: 26894518
+22,2113,['Protein'],2082,,PMID: 26894518
+23,2158,['Protein'],2154,,PMID: 26894518
+24,1931,['Protein'],1923,,PMID: 26894518
+25,2119,['Protein'],2115,,PMID: 26894518
+26,2054,['Protein'],2020,,PMID: 26894518
+27,2060,['Protein'],2056,,PMID: 26894518
+28,1877,['Tissue Types/Organ System'],1871,,PMID: 26894518
+29,1910,['Assay/Technique'],1897,,PMID: 26894518
+30,2247,['Assay/Technique'],2204,,PMID: 26894518
+31,2308,['Protein'],2280,,PMID: 26894518
+32,2313,['Protein'],2309,,PMID: 26894518
+33,2352,['Protein'],2328,,PMID: 26894518
+34,2359,['Protein'],2354,,PMID: 26894518
+35,2601,['Tissue Types/Organ System'],2565,,PMID: 26894518
+36,2618,['Tissue Types/Organ System'],2606,,PMID: 26894518
+37,2557,['Assay/Technique'],2554,,PMID: 26894518
+38,2871,['Life Stage'],2864,,PMID: 26894518
+39,2884,['Tissue Types/Organ System'],2880,,PMID: 26894518
+40,2914,['Protein'],2909,,PMID: 26894518
+41,3225,['Life Stage'],3222,,PMID: 26894518
+42,3230,['Tissue Types/Organ System'],3226,,PMID: 26894518
+43,3253,['Protein'],3250,,PMID: 26894518
+0,218,['Disease'],208,,PMID: 26894518
+1,579,['Assay/Technique'],576,,PMID: 26894518
+2,600,['Assay/Technique'],584,,PMID: 26894518
+3,678,['Tissue Types/Organ System'],675,,PMID: 26894518
+4,767,['Protein'],747,erythropoietin (EPO),PMID: 26894518
+5,780,['Contribute'],771,,PMID: 26894518
+6,974,['Life Stage'],955,,PMID: 26894518
+7,152,['Life Stage'],135,,PMID: 26894518
+8,284,['Contribute'],277,,PMID: 26894518
+9,1100,['Protein'],1097,,PMID: 26894518
+10,1299,['Assay/Technique'],1257,,PMID: 26894518
+11,1373,['Assay/Technique'],1350,,PMID: 26894518
+12,1378,['Assay/Technique'],1375,,PMID: 26894518
+13,1401,['Assay/Technique'],1384,,PMID: 26894518
+14,1530,['Assay/Technique'],1483,,PMID: 26894518
+15,63,['Disease'],35,,PMID: 26894518
+16,1745,['Assay/Technique'],1742,,PMID: 26894518
+17,1805,['Assay/Technique'],1793,,PMID: 26894518
+18,1830,['Protein'],1818,,PMID: 26894518
+19,1958,['Protein'],1951,,PMID: 26894518
+20,1950,['Tissue Types/Organ System'],1932,,PMID: 26894518
+21,1996,['Protein'],1984,,PMID: 26894518
+22,2113,['Protein'],2082,,PMID: 26894518
+23,2158,['Protein'],2154,,PMID: 26894518
+24,1931,['Protein'],1923,,PMID: 26894518
+25,2119,['Protein'],2115,,PMID: 26894518
+26,2054,['Protein'],2020,,PMID: 26894518
+27,2060,['Protein'],2056,,PMID: 26894518
+28,1877,['Tissue Types/Organ System'],1871,,PMID: 26894518
+29,1910,['Assay/Technique'],1897,,PMID: 26894518
+30,2247,['Assay/Technique'],2204,,PMID: 26894518
+31,2308,['Protein'],2280,,PMID: 26894518
+32,2313,['Protein'],2309,,PMID: 26894518
+33,2352,['Protein'],2328,,PMID: 26894518
+34,2359,['Protein'],2354,,PMID: 26894518
+35,2601,['Tissue Types/Organ System'],2565,,PMID: 26894518
+36,2618,['Tissue Types/Organ System'],2606,,PMID: 26894518
+37,2557,['Assay/Technique'],2554,,PMID: 26894518
+38,2871,['Life Stage'],2864,,PMID: 26894518
+39,2884,['Tissue Types/Organ System'],2880,,PMID: 26894518
+40,2914,['Protein'],2909,,PMID: 26894518
+41,3225,['Life Stage'],3222,,PMID: 26894518
+42,3230,['Tissue Types/Organ System'],3226,,PMID: 26894518
+43,3253,['Protein'],3250,,PMID: 26894518
+0,240,['Gene'],235,TRIP4,PMID: 26924529
+1,250,['Gene'],245,ASCC1,PMID: 26924529
+2,327,['Protein'],322,,PMID: 26924529
+3,366,['Assay/Technique'],346,,PMID: 26924529
+4,393,['Assay/Technique'],371,whole-exome sequencing,PMID: 26924529
+5,527,['Disease'],483,,PMID: 26924529
+6,598,['Disease'],529,,PMID: 26924529
+7,620,['Disease'],600,,PMID: 26924529
+8,651,['Disease'],626,,PMID: 26924529
+9,953,['Life Stage'],927,,PMID: 26924529
+10,1000,['Tissue Types/Organ System'],989,,PMID: 26924529
+11,1007,['Tissue Types/Organ System'],1002,,PMID: 26924529
+12,1027,['Tissue Types/Organ System'],1009,,PMID: 26924529
+13,1036,['Tissue Types/Organ System'],1029,,PMID: 26924529
+14,1062,['Tissue Types/Organ System'],1042,,PMID: 26924529
+15,1103,['Assay/Technique'],1064,,PMID: 26924529
+16,878,['Protein'],873,,PMID: 26924529
+17,888,['Protein'],883,,PMID: 26924529
+18,1119,['Protein'],1114,,PMID: 26924529
+19,1128,['Protein'],1123,,PMID: 26924529
+20,1141,['Tissue Types/Organ System'],1132,,PMID: 26924529
+21,1353,['Protein'],1348,,PMID: 26924529
+22,1429,['Protein'],1386,,PMID: 26924529
+23,1547,['Tissue Types/Organ System'],1538,,PMID: 26924529
+24,1573,['Tissue Types/Organ System'],1562,,PMID: 26924529
+25,1622,['Pathway'],1610,,PMID: 26924529
+26,1642,['Pathway'],1624,,PMID: 26924529
+27,1659,['Pathway'],1648,,PMID: 26924529
+28,1726,['Pathway'],1710,,PMID: 26924529
+29,733,['Gene'],728,TRIP4,PMID: 26924529
+30,743,['Gene'],738,,PMID: 26924529
+31,1151,['Prevent'],1142,,PMID: 26924529
+32,1319,['Life Stage'],1313,,PMID: 26924529
+33,1276,['Tissue Types/Organ System'],1253,,PMID: 26924529
+34,1248,['Tissue Types/Organ System'],1240,,PMID: 26924529
+35,1212,['Cell Type'],1200,,PMID: 26924529
+36,1851,['Contribute'],1842,,PMID: 26924529
+37,1906,['Tissue Types/Organ System'],1886,,PMID: 26924529
+38,220,['Other_useful'],184,,PMID: 26924529
+39,428,['Other_useful'],408,,PMID: 26924529
+40,727,['Other_useful'],667,,PMID: 26924529
+0,218,['Disease'],208,,PMID: 26894518
+1,579,['Assay/Technique'],576,,PMID: 26894518
+2,600,['Assay/Technique'],584,,PMID: 26894518
+3,678,['Tissue Types/Organ System'],675,,PMID: 26894518
+4,767,['Protein'],747,erythropoietin (EPO),PMID: 26894518
+5,780,['Contribute'],771,,PMID: 26894518
+6,974,['Life Stage'],955,,PMID: 26894518
+7,152,['Life Stage'],135,,PMID: 26894518
+8,284,['Contribute'],277,,PMID: 26894518
+9,1100,['Protein'],1097,,PMID: 26894518
+10,1299,['Assay/Technique'],1257,,PMID: 26894518
+11,1373,['Assay/Technique'],1350,,PMID: 26894518
+12,1378,['Assay/Technique'],1375,,PMID: 26894518
+13,1401,['Assay/Technique'],1384,,PMID: 26894518
+14,1530,['Assay/Technique'],1483,,PMID: 26894518
+15,63,['Disease'],35,,PMID: 26894518
+16,1745,['Assay/Technique'],1742,,PMID: 26894518
+17,1805,['Assay/Technique'],1793,,PMID: 26894518
+18,1830,['Protein'],1818,,PMID: 26894518
+19,1958,['Protein'],1951,,PMID: 26894518
+20,1950,['Tissue Types/Organ System'],1932,,PMID: 26894518
+21,1996,['Protein'],1984,,PMID: 26894518
+22,2113,['Protein'],2082,,PMID: 26894518
+23,2158,['Protein'],2154,,PMID: 26894518
+24,1931,['Protein'],1923,,PMID: 26894518
+25,2119,['Protein'],2115,,PMID: 26894518
+26,2054,['Protein'],2020,,PMID: 26894518
+27,2060,['Protein'],2056,,PMID: 26894518
+28,1877,['Tissue Types/Organ System'],1871,,PMID: 26894518
+29,1910,['Assay/Technique'],1897,,PMID: 26894518
+30,2247,['Assay/Technique'],2204,,PMID: 26894518
+31,2308,['Protein'],2280,,PMID: 26894518
+32,2313,['Protein'],2309,,PMID: 26894518
+33,2352,['Protein'],2328,,PMID: 26894518
+34,2359,['Protein'],2354,,PMID: 26894518
+35,2601,['Tissue Types/Organ System'],2565,,PMID: 26894518
+36,2618,['Tissue Types/Organ System'],2606,,PMID: 26894518
+37,2557,['Assay/Technique'],2554,,PMID: 26894518
+38,2871,['Life Stage'],2864,,PMID: 26894518
+39,2884,['Tissue Types/Organ System'],2880,,PMID: 26894518
+40,2914,['Protein'],2909,,PMID: 26894518
+41,3225,['Life Stage'],3222,,PMID: 26894518
+42,3230,['Tissue Types/Organ System'],3226,,PMID: 26894518
+43,3253,['Protein'],3250,,PMID: 26894518
