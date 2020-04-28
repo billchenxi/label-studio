@@ -1,0 +1,27 @@
+[
+    {
+      "completions": [
+        {
+          "result": [
+            {
+              "from_name": "Relationship",
+              "source": "$text",
+              "to_name": "text",
+              "type": "labels",
+              "value": {
+                "end": 70,
+                "labels": [
+                  "Assay/Technique"
+                ],
+                "start": 39,
+                "text": "genome-wide association studies"
+              }
+            }
+          ]
+        }
+      ],
+      "data": {
+        "text": "PMID: 22962313\nAbstract: In conducting genome-wide association studies (GWAS), analytical approaches leveraging biological information may further understanding of the pathophysiology of clinical traits. To discover novel associations with estimated glomerular filtration rate (eGFR), a measure of kidney function, we developed a strategy for integrating prior biological knowledge into the existing GWAS data for eGFR from the CKDGen Consortium. Our strategy focuses on single nucleotide polymorphism (SNPs) in genes that are connected by functional evidence, determined by literature mining and gene ontology (GO) hierarchies, to genes near previously validated eGFR associations. It then requires association thresholds consistent with multiple testing, and finally evaluates novel candidates by independent replication. Among the samples of European ancestry, we identified a genome-wide significant SNP in FBXL20 (P = 5.6 × 10(-9)) in meta-analysis of all available data, and additional SNPs at the INHBC, LRP2, PLEKHA1, SLC3A2 and SLC7A6 genes meeting multiple-testing corrected significance for replication and overall P-values of 4.5 × 10(-4)-2.2 × 10(-7). Neither the novel PLEKHA1 nor FBXL20 associations, both further supported by association with eGFR among African Americans and with transcript abundance, would have been implicated by eGFR candidate gene approaches. LRP2, encoding the megalin receptor, was identified through connection with the previously known eGFR gene DAB2 and extends understanding of the megalin system in kidney function. These findings highlight integration of existing genome-wide association data with independent biological knowledge to uncover novel candidate eGFR associations, including candidates lacking known connections to kidney-specific pathways. The strategy may also be applicable to other clinical phenotypes, although more testing will be needed to assess its potential for discovery in general.\n\nDisease: ['Aging']\nProteins: ['FBXL2', 'PLEK', 'INHBC', 'LRP2', 'SN', 'DAB2']\n"
+      }
+    }
+  ]

@@ -1,0 +1,638 @@
+[
+  {
+    "completions": [
+      {
+        "honeypot": false,
+        "id": 1,
+        "lead_time": 559.665,
+        "result": [
+          {
+            "from_name": "Relationship",
+            "id": "qE9pHCtKDw",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 250,
+              "labels": [
+                "Gene"
+              ],
+              "start": 235,
+              "text": "TRIP4 and ASCC1"
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "mCNoffw4Ym",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 327,
+              "labels": [
+                "Protein"
+              ],
+              "start": 322,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "VuXbklrY13",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 527,
+              "labels": [
+                "Disease"
+              ],
+              "start": 483,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "dRbS4N1qhU",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 651,
+              "labels": [
+                "Disease"
+              ],
+              "start": 529,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "5WZgGVRW_N",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1659,
+              "labels": [
+                "Pathway"
+              ],
+              "start": 1610,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "IioxXHVlOg",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1726,
+              "labels": [
+                "Pathway"
+              ],
+              "start": 1710,
+              "text": "bone development"
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "W4XWrRm6XA",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1587,
+              "labels": [
+                "Prevent"
+              ],
+              "start": 1574,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "7TCyA4H0KM",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1573,
+              "labels": [
+                "Cell Type"
+              ],
+              "start": 1549,
+              "text": ""
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "PMID: 26924529\nAbstract: Transcriptional signal cointegrators associate with transcription factors or nuclear receptors and coregulate tissue-specific gene transcription. We report on recessive loss-of-function mutations in two genes (TRIP4 and ASCC1) that encode subunits of the nuclear activating signal cointegrator 1 (ASC-1) complex. We used autozygosity mapping and whole-exome sequencing to search for pathogenic mutations in four families. Affected individuals presented with prenatal-onset spinal muscular atrophy (SMA), multiple congenital contractures (arthrogryposis multiplex congenita), respiratory distress, and congenital bone fractures. We identified homozygous and compound-heterozygous nonsense and frameshift TRIP4 and ASCC1 mutations that led to a truncation or the entire absence of the respective proteins and cosegregated with the disease phenotype. Trip4 and Ascc1 have identical expression patterns in 17.5-day-old mouse embryos with high expression levels in the spinal cord, brain, paraspinal ganglia, thyroid, and submandibular glands. Antisense morpholino-mediated knockdown of either trip4 or ascc1 in zebrafish disrupted the highly patterned and coordinated process of α-motoneuron outgrowth and formation of myotomes and neuromuscular junctions and led to a swimming defect in the larvae. Immunoprecipitation of the ASC-1 complex consistently copurified cysteine and glycine rich protein 1 (CSRP1), a transcriptional cofactor, which is known to be involved in spinal cord regeneration upon injury in adult zebrafish. ASCC1 mutant fibroblasts downregulated genes associated with neurogenesis, neuronal migration, and pathfinding (SERPINF1, DAB1, SEMA3D, SEMA3A), as well as with bone development (TNFRSF11B, RASSF2, STC1). Our findings indicate that the dysfunction of a transcriptional coactivator complex can result in a clinical syndrome affecting the neuromuscular system.\n\nDisease: ['Spinal Muscular Atrophy']\nProteins: ['ASC', 'NF1', 'RP1', 'ASCC1', 'TRIP4', 'RIP', 'RSF1', 'STC1', 'DAB1', 'CSRP1']\n"
+    },
+    "id": 0
+  },
+  {
+    "completions": [
+      {
+        "id": 1001,
+        "lead_time": 552.689,
+        "result": [
+          {
+            "from_name": "Relationship",
+            "id": "RP4cglCvCX",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 90,
+              "labels": [
+                "Protein"
+              ],
+              "start": 82,
+              "text": "monokine"
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "E1QMBFiutU",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 195,
+              "labels": [
+                "Protein"
+              ],
+              "start": 164,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "HSHkxLGCmX",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 258,
+              "labels": [
+                "Protein"
+              ],
+              "start": 201,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "cOECzicetD",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 750,
+              "labels": [
+                "Prevent"
+              ],
+              "start": 590,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "HDviUTfxa3",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1130,
+              "labels": [
+                "Pathway"
+              ],
+              "start": 1083,
+              "text": ""
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "PMID: 15178708\nAbstract: The selective CXC chemokine receptor 3 (CXCR3) agonists, monokine induced by interferon-gamma (IFN- gamma)/CXC chemokine ligand 9 (CXCL9), IFN-inducible protein 10/CXCL10, and IFN-inducible T cell alpha chemoattractant (I-TAC)/CXCL11, attract CXCR3+ cells such as CD45RO+ T lymphocytes, B cells, and natural killer cells. Further, all three chemokines are potent, natural antagonists for chemokine receptor 3 (CCR3) and feature defensin-like, antimicrobial activities. In this study, we show that I-TAC, in addition to these effects, acts as an antagonist for CCR5. I-TAC inhibited the binding of macrophage-inflammatory protein-1alpha (MIP-1alpha)/CC chemokine ligand 3 (CCL3) to cells transfected with CCR5 and to monocytes. Furthermore, cell migration evoked by regulated on activation, normal T expressed and secreted (RANTES)/CCL5 and MIP-1beta/CCL4, the selective agonist of CCR5, was inhibited in transfected cells and monocytes, respectively. In two other functional assays, namely the release of free intracellular calcium and actin polymerization, I-TAC reduced CCR5 activities to minimal levels. Sequence and structure analyses indicate a potential role for K17, K49, and Q51 of I-TAC in CCR5 binding. Our results expand on the potential role of I-TAC as a negative modulator in leukocyte migration and activation, as I-TAC would specifically counteract the responses mediated by many \"classical,\" inflammatory chemokines that act not only via CCR3 but via CCR5 as well.\n\nDisease: ['Secreted protein']\nProteins: ['CCL4', 'MIP', 'IF', 'CD4', 'CXCL9', 'CCR3', 'CCR5', 'CXCR3', 'RAN', 'CCL5', 'TES', 'XCL1', 'CCL3']\n"
+    },
+    "id": 1
+  },
+  {
+    "completions": [
+      {
+        "id": 10001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 26924529\nAbstract: Transcriptional signal cointegrators associate with transcription factors or nuclear receptors and coregulate tissue-specific gene transcription. We report on recessive loss-of-function mutations in two genes (TRIP4 and ASCC1) that encode subunits of the nuclear activating signal cointegrator 1 (ASC-1) complex. We used autozygosity mapping and whole-exome sequencing to search for pathogenic mutations in four families. Affected individuals presented with prenatal-onset spinal muscular atrophy (SMA), multiple congenital contractures (arthrogryposis multiplex congenita), respiratory distress, and congenital bone fractures. We identified homozygous and compound-heterozygous nonsense and frameshift TRIP4 and ASCC1 mutations that led to a truncation or the entire absence of the respective proteins and cosegregated with the disease phenotype. Trip4 and Ascc1 have identical expression patterns in 17.5-day-old mouse embryos with high expression levels in the spinal cord, brain, paraspinal ganglia, thyroid, and submandibular glands. Antisense morpholino-mediated knockdown of either trip4 or ascc1 in zebrafish disrupted the highly patterned and coordinated process of α-motoneuron outgrowth and formation of myotomes and neuromuscular junctions and led to a swimming defect in the larvae. Immunoprecipitation of the ASC-1 complex consistently copurified cysteine and glycine rich protein 1 (CSRP1), a transcriptional cofactor, which is known to be involved in spinal cord regeneration upon injury in adult zebrafish. ASCC1 mutant fibroblasts downregulated genes associated with neurogenesis, neuronal migration, and pathfinding (SERPINF1, DAB1, SEMA3D, SEMA3A), as well as with bone development (TNFRSF11B, RASSF2, STC1). Our findings indicate that the dysfunction of a transcriptional coactivator complex can result in a clinical syndrome affecting the neuromuscular system.\n\nDisease: ['Spinal Muscular Atrophy']\nProteins: ['ASC', 'NF1', 'RP1', 'ASCC1', 'TRIP4', 'RIP', 'RSF1', 'STC1', 'DAB1', 'CSRP1']\n"
+    },
+    "id": 10
+  },
+  {
+    "completions": [
+      {
+        "id": 11001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 15178708\nAbstract: The selective CXC chemokine receptor 3 (CXCR3) agonists, monokine induced by interferon-gamma (IFN- gamma)/CXC chemokine ligand 9 (CXCL9), IFN-inducible protein 10/CXCL10, and IFN-inducible T cell alpha chemoattractant (I-TAC)/CXCL11, attract CXCR3+ cells such as CD45RO+ T lymphocytes, B cells, and natural killer cells. Further, all three chemokines are potent, natural antagonists for chemokine receptor 3 (CCR3) and feature defensin-like, antimicrobial activities. In this study, we show that I-TAC, in addition to these effects, acts as an antagonist for CCR5. I-TAC inhibited the binding of macrophage-inflammatory protein-1alpha (MIP-1alpha)/CC chemokine ligand 3 (CCL3) to cells transfected with CCR5 and to monocytes. Furthermore, cell migration evoked by regulated on activation, normal T expressed and secreted (RANTES)/CCL5 and MIP-1beta/CCL4, the selective agonist of CCR5, was inhibited in transfected cells and monocytes, respectively. In two other functional assays, namely the release of free intracellular calcium and actin polymerization, I-TAC reduced CCR5 activities to minimal levels. Sequence and structure analyses indicate a potential role for K17, K49, and Q51 of I-TAC in CCR5 binding. Our results expand on the potential role of I-TAC as a negative modulator in leukocyte migration and activation, as I-TAC would specifically counteract the responses mediated by many \"classical,\" inflammatory chemokines that act not only via CCR3 but via CCR5 as well.\n\nDisease: ['Secreted protein']\nProteins: ['CCL4', 'MIP', 'IF', 'CD4', 'CXCL9', 'CCR3', 'CCR5', 'CXCR3', 'RAN', 'CCL5', 'TES', 'XCL1', 'CCL3']\n"
+    },
+    "id": 11
+  },
+  {
+    "completions": [
+      {
+        "id": 12001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 26894518\nAbstract: OBJECTIVE Traumatic brain injury (TBI) is a leading cause of death and severe morbidity for otherwise healthy full-term infants around the world. Currently, the primary treatment for infant TBI is supportive, as no targeted therapies exist to actively promote recovery. The developing infant brain, in particular, has a unique response to injury and the potential for repair, both of which vary with maturation. Targeted interventions and objective measures of therapeutic efficacy are needed in this special population. The authors hypothesized that MRI and serum biomarkers can be used to quantify outcomes following infantile TBI in a preclinical rat model and that the potential efficacy of the neuro-reparative agent erythropoietin (EPO) in promoting recovery can be tested using these biomarkers as surrogates for functional outcomes. METHODS With institutional approval, a controlled cortical impact (CCI) was delivered to postnatal Day (P)12 rats of both sexes (76 rats). On postinjury Day (PID)1, the 49 CCI rats designated for chronic studies were randomized to EPO (3000 U/kg/dose, CCI-EPO, 24 rats) or vehicle (CCI-veh, 25 rats) administered intraperitoneally on PID1-4, 6, and 8. Acute injury (PID3) was evaluated with an immunoassay of injured cortex and serum, and chronic injury (PID13-28) was evaluated with digitized gait analyses, MRI, and serum immunoassay. The CCI-veh and CCI-EPO rats were compared with shams (49 rats) primarily using 2-way ANOVA with Bonferroni post hoc correction. RESULTS Following CCI, there was 4.8% mortality and 55% of injured rats exhibited convulsions. Of the injured rats designated for chronic analyses, 8.1% developed leptomeningeal cyst-like lesions verified with MRI and were excluded from further study. On PID3, Western blot showed that EPO receptor expression was increased in the injured cortex (p = 0.008). These Western blots also showed elevated ipsilateral cortex calpain degradation products for αII-spectrin (αII-SDPs; p < 0.001), potassium chloride cotransporter 2 (KCC2-DPs; p = 0.037), and glial fibrillary acidic protein (GFAP-DPs; p = 0.002), as well as serum GFAP (serum GFAP-DPs; p = 0.001). In injured rats multiplex electrochemiluminescence analyses on PID3 revealed elevated serum tumor necrosis factor alpha (TNFα p = 0.01) and chemokine (CXC) ligand 1 (CXCL1). Chronically, that is, in PID13-16 CCI-veh rats, as compared with sham rats, gait deficits were demonstrated (p = 0.033) but then were reversed (p = 0.022) with EPO treatment. Diffusion tensor MRI of the ipsilateral and contralateral cortex and white matter in PID16-23 CCI-veh rats showed widespread injury and significant abnormalities of functional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), and radial diffusivity (RD); MD, AD, and RD improved after EPO treatment. Chronically, P13-P28 CCI-veh rats also had elevated serum CXCL1 levels, which normalized in CCI-EPO rats. CONCLUSIONS Efficient translation of emerging neuro-reparative interventions dictates the use of age-appropriate preclinical models with human clinical trial-compatible biomarkers. In the present study, the authors showed that CCI produced chronic gait deficits in P12 rats that resolved with EPO treatment and that chronic imaging and serum biomarkers correlated with this improvement. \n\nDisease: ['Aging']\nProteins: ['GFAP', 'METH', 'EPO', 'CLUS', 'ID1', 'CLU', 'MET', 'ID3', 'XCL1']\n"
+    },
+    "id": 12
+  },
+  {
+    "completions": [
+      {
+        "id": 13001,
+        "lead_time": 227.736,
+        "result": [
+          {
+            "from_name": "Relationship",
+            "id": "sQzw26_cHj",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 50,
+              "labels": [
+                "Disease"
+              ],
+              "start": 25,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "EezNgQSMsL",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 788,
+              "labels": [
+                "Gene"
+              ],
+              "start": 738,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "ze67MKaxvd",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 987,
+              "labels": [
+                "Contribute"
+              ],
+              "start": 931,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "vwEo2xenw1",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1047,
+              "labels": [
+                "Pathway"
+              ],
+              "start": 992,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "rsAvBASYza",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 580,
+              "labels": [
+                "Other_useful"
+              ],
+              "start": 538,
+              "text": ""
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "PMID: 30639329\nAbstract: Muscle wasting or atrophy is extensively associated with human systemic diseases including diabetes, cancer, and kidney failure. Accumulating evidence from transcriptional profiles has noted that a common set of genes, termed atrogenes, is modulated in atrophying muscles. However, the transcriptional changes that trigger the reversion or attenuation of muscle atrophy have not been characterized at the molecular level until now. Here, we applied cDNA microarrays to investigate the transcriptional response of androgen-sensitive Levator ani muscle (LA) during atrophy reversion. Most of the differentially expressed genes behaved as atrogenes and responded to castration-induced atrophy. However, seven genes (APLN, DUSP5, IGF1, PIK3IP1, KLHL38, PI15, and MKL1) did not respond to castration but instead responded exclusively to testosterone replacement. Considering that almost all proteins encoded by these genes are associated with the reversion of atrophy and may function as regulators of cell proliferation/growth, our results provide new perspectives on the existence of anti-atrogenes.\n\nDisease: ['Muscle wasting', 'Muscle']\nProteins: ['KLHL3', 'MK', 'LA', 'IGF1', 'PI15', 'SP5']\n"
+    },
+    "id": 13
+  },
+  {
+    "completions": [
+      {
+        "id": 14001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 22962313\nAbstract: In conducting genome-wide association studies (GWAS), analytical approaches leveraging biological information may further understanding of the pathophysiology of clinical traits. To discover novel associations with estimated glomerular filtration rate (eGFR), a measure of kidney function, we developed a strategy for integrating prior biological knowledge into the existing GWAS data for eGFR from the CKDGen Consortium. Our strategy focuses on single nucleotide polymorphism (SNPs) in genes that are connected by functional evidence, determined by literature mining and gene ontology (GO) hierarchies, to genes near previously validated eGFR associations. It then requires association thresholds consistent with multiple testing, and finally evaluates novel candidates by independent replication. Among the samples of European ancestry, we identified a genome-wide significant SNP in FBXL20 (P = 5.6 × 10(-9)) in meta-analysis of all available data, and additional SNPs at the INHBC, LRP2, PLEKHA1, SLC3A2 and SLC7A6 genes meeting multiple-testing corrected significance for replication and overall P-values of 4.5 × 10(-4)-2.2 × 10(-7). Neither the novel PLEKHA1 nor FBXL20 associations, both further supported by association with eGFR among African Americans and with transcript abundance, would have been implicated by eGFR candidate gene approaches. LRP2, encoding the megalin receptor, was identified through connection with the previously known eGFR gene DAB2 and extends understanding of the megalin system in kidney function. These findings highlight integration of existing genome-wide association data with independent biological knowledge to uncover novel candidate eGFR associations, including candidates lacking known connections to kidney-specific pathways. The strategy may also be applicable to other clinical phenotypes, although more testing will be needed to assess its potential for discovery in general.\n\nDisease: ['Aging']\nProteins: ['FBXL2', 'PLEK', 'INHBC', 'LRP2', 'SN', 'DAB2']\n"
+    },
+    "id": 14
+  },
+  {
+    "completions": [
+      {
+        "id": 2001,
+        "lead_time": 725.151,
+        "result": [
+          {
+            "from_name": "Relationship",
+            "id": "1-8K7A0YSf",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 63,
+              "labels": [
+                "Disease"
+              ],
+              "start": 35,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "kEjyOMsCow",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 767,
+              "labels": [
+                "Protein"
+              ],
+              "start": 720,
+              "text": "the neuro-reparative agent erythropoietin (EPO)"
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "3-GaC3gjUm",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2535,
+              "labels": [
+                "Prevent"
+              ],
+              "start": 2438,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "9bTaOvr-XD",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2849,
+              "labels": [
+                "Prevent"
+              ],
+              "start": 2631,
+              "text": ""
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "PMID: 26894518\nAbstract: OBJECTIVE Traumatic brain injury (TBI) is a leading cause of death and severe morbidity for otherwise healthy full-term infants around the world. Currently, the primary treatment for infant TBI is supportive, as no targeted therapies exist to actively promote recovery. The developing infant brain, in particular, has a unique response to injury and the potential for repair, both of which vary with maturation. Targeted interventions and objective measures of therapeutic efficacy are needed in this special population. The authors hypothesized that MRI and serum biomarkers can be used to quantify outcomes following infantile TBI in a preclinical rat model and that the potential efficacy of the neuro-reparative agent erythropoietin (EPO) in promoting recovery can be tested using these biomarkers as surrogates for functional outcomes. METHODS With institutional approval, a controlled cortical impact (CCI) was delivered to postnatal Day (P)12 rats of both sexes (76 rats). On postinjury Day (PID)1, the 49 CCI rats designated for chronic studies were randomized to EPO (3000 U/kg/dose, CCI-EPO, 24 rats) or vehicle (CCI-veh, 25 rats) administered intraperitoneally on PID1-4, 6, and 8. Acute injury (PID3) was evaluated with an immunoassay of injured cortex and serum, and chronic injury (PID13-28) was evaluated with digitized gait analyses, MRI, and serum immunoassay. The CCI-veh and CCI-EPO rats were compared with shams (49 rats) primarily using 2-way ANOVA with Bonferroni post hoc correction. RESULTS Following CCI, there was 4.8% mortality and 55% of injured rats exhibited convulsions. Of the injured rats designated for chronic analyses, 8.1% developed leptomeningeal cyst-like lesions verified with MRI and were excluded from further study. On PID3, Western blot showed that EPO receptor expression was increased in the injured cortex (p = 0.008). These Western blots also showed elevated ipsilateral cortex calpain degradation products for αII-spectrin (αII-SDPs; p < 0.001), potassium chloride cotransporter 2 (KCC2-DPs; p = 0.037), and glial fibrillary acidic protein (GFAP-DPs; p = 0.002), as well as serum GFAP (serum GFAP-DPs; p = 0.001). In injured rats multiplex electrochemiluminescence analyses on PID3 revealed elevated serum tumor necrosis factor alpha (TNFα p = 0.01) and chemokine (CXC) ligand 1 (CXCL1). Chronically, that is, in PID13-16 CCI-veh rats, as compared with sham rats, gait deficits were demonstrated (p = 0.033) but then were reversed (p = 0.022) with EPO treatment. Diffusion tensor MRI of the ipsilateral and contralateral cortex and white matter in PID16-23 CCI-veh rats showed widespread injury and significant abnormalities of functional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), and radial diffusivity (RD); MD, AD, and RD improved after EPO treatment. Chronically, P13-P28 CCI-veh rats also had elevated serum CXCL1 levels, which normalized in CCI-EPO rats. CONCLUSIONS Efficient translation of emerging neuro-reparative interventions dictates the use of age-appropriate preclinical models with human clinical trial-compatible biomarkers. In the present study, the authors showed that CCI produced chronic gait deficits in P12 rats that resolved with EPO treatment and that chronic imaging and serum biomarkers correlated with this improvement. \n\nDisease: ['Aging']\nProteins: ['GFAP', 'METH', 'EPO', 'CLUS', 'ID1', 'CLU', 'MET', 'ID3', 'XCL1']\n"
+    },
+    "id": 2
+  },
+  {
+    "completions": [
+      {
+        "id": 3001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 30639329\nAbstract: Muscle wasting or atrophy is extensively associated with human systemic diseases including diabetes, cancer, and kidney failure. Accumulating evidence from transcriptional profiles has noted that a common set of genes, termed atrogenes, is modulated in atrophying muscles. However, the transcriptional changes that trigger the reversion or attenuation of muscle atrophy have not been characterized at the molecular level until now. Here, we applied cDNA microarrays to investigate the transcriptional response of androgen-sensitive Levator ani muscle (LA) during atrophy reversion. Most of the differentially expressed genes behaved as atrogenes and responded to castration-induced atrophy. However, seven genes (APLN, DUSP5, IGF1, PIK3IP1, KLHL38, PI15, and MKL1) did not respond to castration but instead responded exclusively to testosterone replacement. Considering that almost all proteins encoded by these genes are associated with the reversion of atrophy and may function as regulators of cell proliferation/growth, our results provide new perspectives on the existence of anti-atrogenes.\n\nDisease: ['Muscle wasting', 'Muscle']\nProteins: ['KLHL3', 'MK', 'LA', 'IGF1', 'PI15', 'SP5']\n"
+    },
+    "id": 3
+  },
+  {
+    "completions": [
+      {
+        "id": 4001,
+        "lead_time": 946.88,
+        "result": [
+          {
+            "from_name": "Relationship",
+            "id": "1wWUmGpX_u",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 313,
+              "labels": [
+                "Disease"
+              ],
+              "start": 250,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "ew1VSQHeCY",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 77,
+              "labels": [
+                "Assay/Technique"
+              ],
+              "start": 39,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "YZuAksx2eZ",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 313,
+              "labels": [
+                "Disease"
+              ],
+              "start": 240,
+              "text": "estimated glomerular filtration rate (eGFR), a measure of kidney function"
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "wLqE0PIQlt",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 681,
+              "labels": [
+                "Assay/Technique"
+              ],
+              "start": 447,
+              "text": "Our strategy focuses on single nucleotide polymorphism (SNPs) in genes that are connected by functional evidence, determined by literature mining and gene ontology (GO) hierarchies, to genes near previously validated eGFR associations"
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "ogSMFd9e-o",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 917,
+              "labels": [
+                "Gene"
+              ],
+              "start": 904,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "H_OaNMmdUX",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1049,
+              "labels": [
+                "Gene"
+              ],
+              "start": 992,
+              "text": ""
+            }
+          },
+          {
+            "from_name": "Relationship",
+            "id": "pWtSdkXZ1X",
+            "source": "$text",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1721,
+              "labels": [
+                "Assay/Technique"
+              ],
+              "start": 1561,
+              "text": "These findings highlight integration of existing genome-wide association data with independent biological knowledge to uncover novel candidate eGFR associations"
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "PMID: 22962313\nAbstract: In conducting genome-wide association studies (GWAS), analytical approaches leveraging biological information may further understanding of the pathophysiology of clinical traits. To discover novel associations with estimated glomerular filtration rate (eGFR), a measure of kidney function, we developed a strategy for integrating prior biological knowledge into the existing GWAS data for eGFR from the CKDGen Consortium. Our strategy focuses on single nucleotide polymorphism (SNPs) in genes that are connected by functional evidence, determined by literature mining and gene ontology (GO) hierarchies, to genes near previously validated eGFR associations. It then requires association thresholds consistent with multiple testing, and finally evaluates novel candidates by independent replication. Among the samples of European ancestry, we identified a genome-wide significant SNP in FBXL20 (P = 5.6 × 10(-9)) in meta-analysis of all available data, and additional SNPs at the INHBC, LRP2, PLEKHA1, SLC3A2 and SLC7A6 genes meeting multiple-testing corrected significance for replication and overall P-values of 4.5 × 10(-4)-2.2 × 10(-7). Neither the novel PLEKHA1 nor FBXL20 associations, both further supported by association with eGFR among African Americans and with transcript abundance, would have been implicated by eGFR candidate gene approaches. LRP2, encoding the megalin receptor, was identified through connection with the previously known eGFR gene DAB2 and extends understanding of the megalin system in kidney function. These findings highlight integration of existing genome-wide association data with independent biological knowledge to uncover novel candidate eGFR associations, including candidates lacking known connections to kidney-specific pathways. The strategy may also be applicable to other clinical phenotypes, although more testing will be needed to assess its potential for discovery in general.\n\nDisease: ['Aging']\nProteins: ['FBXL2', 'PLEK', 'INHBC', 'LRP2', 'SN', 'DAB2']\n"
+    },
+    "id": 4
+  },
+  {
+    "completions": [
+      {
+        "id": 5001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 26924529\nAbstract: Transcriptional signal cointegrators associate with transcription factors or nuclear receptors and coregulate tissue-specific gene transcription. We report on recessive loss-of-function mutations in two genes (TRIP4 and ASCC1) that encode subunits of the nuclear activating signal cointegrator 1 (ASC-1) complex. We used autozygosity mapping and whole-exome sequencing to search for pathogenic mutations in four families. Affected individuals presented with prenatal-onset spinal muscular atrophy (SMA), multiple congenital contractures (arthrogryposis multiplex congenita), respiratory distress, and congenital bone fractures. We identified homozygous and compound-heterozygous nonsense and frameshift TRIP4 and ASCC1 mutations that led to a truncation or the entire absence of the respective proteins and cosegregated with the disease phenotype. Trip4 and Ascc1 have identical expression patterns in 17.5-day-old mouse embryos with high expression levels in the spinal cord, brain, paraspinal ganglia, thyroid, and submandibular glands. Antisense morpholino-mediated knockdown of either trip4 or ascc1 in zebrafish disrupted the highly patterned and coordinated process of α-motoneuron outgrowth and formation of myotomes and neuromuscular junctions and led to a swimming defect in the larvae. Immunoprecipitation of the ASC-1 complex consistently copurified cysteine and glycine rich protein 1 (CSRP1), a transcriptional cofactor, which is known to be involved in spinal cord regeneration upon injury in adult zebrafish. ASCC1 mutant fibroblasts downregulated genes associated with neurogenesis, neuronal migration, and pathfinding (SERPINF1, DAB1, SEMA3D, SEMA3A), as well as with bone development (TNFRSF11B, RASSF2, STC1). Our findings indicate that the dysfunction of a transcriptional coactivator complex can result in a clinical syndrome affecting the neuromuscular system.\n\nDisease: ['Spinal Muscular Atrophy']\nProteins: ['ASC', 'NF1', 'RP1', 'ASCC1', 'TRIP4', 'RIP', 'RSF1', 'STC1', 'DAB1', 'CSRP1']\n"
+    },
+    "id": 5
+  },
+  {
+    "completions": [
+      {
+        "id": 6001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 15178708\nAbstract: The selective CXC chemokine receptor 3 (CXCR3) agonists, monokine induced by interferon-gamma (IFN- gamma)/CXC chemokine ligand 9 (CXCL9), IFN-inducible protein 10/CXCL10, and IFN-inducible T cell alpha chemoattractant (I-TAC)/CXCL11, attract CXCR3+ cells such as CD45RO+ T lymphocytes, B cells, and natural killer cells. Further, all three chemokines are potent, natural antagonists for chemokine receptor 3 (CCR3) and feature defensin-like, antimicrobial activities. In this study, we show that I-TAC, in addition to these effects, acts as an antagonist for CCR5. I-TAC inhibited the binding of macrophage-inflammatory protein-1alpha (MIP-1alpha)/CC chemokine ligand 3 (CCL3) to cells transfected with CCR5 and to monocytes. Furthermore, cell migration evoked by regulated on activation, normal T expressed and secreted (RANTES)/CCL5 and MIP-1beta/CCL4, the selective agonist of CCR5, was inhibited in transfected cells and monocytes, respectively. In two other functional assays, namely the release of free intracellular calcium and actin polymerization, I-TAC reduced CCR5 activities to minimal levels. Sequence and structure analyses indicate a potential role for K17, K49, and Q51 of I-TAC in CCR5 binding. Our results expand on the potential role of I-TAC as a negative modulator in leukocyte migration and activation, as I-TAC would specifically counteract the responses mediated by many \"classical,\" inflammatory chemokines that act not only via CCR3 but via CCR5 as well.\n\nDisease: ['Secreted protein']\nProteins: ['CCL4', 'MIP', 'IF', 'CD4', 'CXCL9', 'CCR3', 'CCR5', 'CXCR3', 'RAN', 'CCL5', 'TES', 'XCL1', 'CCL3']\n"
+    },
+    "id": 6
+  },
+  {
+    "completions": [
+      {
+        "id": 7001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 26894518\nAbstract: OBJECTIVE Traumatic brain injury (TBI) is a leading cause of death and severe morbidity for otherwise healthy full-term infants around the world. Currently, the primary treatment for infant TBI is supportive, as no targeted therapies exist to actively promote recovery. The developing infant brain, in particular, has a unique response to injury and the potential for repair, both of which vary with maturation. Targeted interventions and objective measures of therapeutic efficacy are needed in this special population. The authors hypothesized that MRI and serum biomarkers can be used to quantify outcomes following infantile TBI in a preclinical rat model and that the potential efficacy of the neuro-reparative agent erythropoietin (EPO) in promoting recovery can be tested using these biomarkers as surrogates for functional outcomes. METHODS With institutional approval, a controlled cortical impact (CCI) was delivered to postnatal Day (P)12 rats of both sexes (76 rats). On postinjury Day (PID)1, the 49 CCI rats designated for chronic studies were randomized to EPO (3000 U/kg/dose, CCI-EPO, 24 rats) or vehicle (CCI-veh, 25 rats) administered intraperitoneally on PID1-4, 6, and 8. Acute injury (PID3) was evaluated with an immunoassay of injured cortex and serum, and chronic injury (PID13-28) was evaluated with digitized gait analyses, MRI, and serum immunoassay. The CCI-veh and CCI-EPO rats were compared with shams (49 rats) primarily using 2-way ANOVA with Bonferroni post hoc correction. RESULTS Following CCI, there was 4.8% mortality and 55% of injured rats exhibited convulsions. Of the injured rats designated for chronic analyses, 8.1% developed leptomeningeal cyst-like lesions verified with MRI and were excluded from further study. On PID3, Western blot showed that EPO receptor expression was increased in the injured cortex (p = 0.008). These Western blots also showed elevated ipsilateral cortex calpain degradation products for αII-spectrin (αII-SDPs; p < 0.001), potassium chloride cotransporter 2 (KCC2-DPs; p = 0.037), and glial fibrillary acidic protein (GFAP-DPs; p = 0.002), as well as serum GFAP (serum GFAP-DPs; p = 0.001). In injured rats multiplex electrochemiluminescence analyses on PID3 revealed elevated serum tumor necrosis factor alpha (TNFα p = 0.01) and chemokine (CXC) ligand 1 (CXCL1). Chronically, that is, in PID13-16 CCI-veh rats, as compared with sham rats, gait deficits were demonstrated (p = 0.033) but then were reversed (p = 0.022) with EPO treatment. Diffusion tensor MRI of the ipsilateral and contralateral cortex and white matter in PID16-23 CCI-veh rats showed widespread injury and significant abnormalities of functional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), and radial diffusivity (RD); MD, AD, and RD improved after EPO treatment. Chronically, P13-P28 CCI-veh rats also had elevated serum CXCL1 levels, which normalized in CCI-EPO rats. CONCLUSIONS Efficient translation of emerging neuro-reparative interventions dictates the use of age-appropriate preclinical models with human clinical trial-compatible biomarkers. In the present study, the authors showed that CCI produced chronic gait deficits in P12 rats that resolved with EPO treatment and that chronic imaging and serum biomarkers correlated with this improvement. \n\nDisease: ['Aging']\nProteins: ['GFAP', 'METH', 'EPO', 'CLUS', 'ID1', 'CLU', 'MET', 'ID3', 'XCL1']\n"
+    },
+    "id": 7
+  },
+  {
+    "completions": [
+      {
+        "id": 8001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 30639329\nAbstract: Muscle wasting or atrophy is extensively associated with human systemic diseases including diabetes, cancer, and kidney failure. Accumulating evidence from transcriptional profiles has noted that a common set of genes, termed atrogenes, is modulated in atrophying muscles. However, the transcriptional changes that trigger the reversion or attenuation of muscle atrophy have not been characterized at the molecular level until now. Here, we applied cDNA microarrays to investigate the transcriptional response of androgen-sensitive Levator ani muscle (LA) during atrophy reversion. Most of the differentially expressed genes behaved as atrogenes and responded to castration-induced atrophy. However, seven genes (APLN, DUSP5, IGF1, PIK3IP1, KLHL38, PI15, and MKL1) did not respond to castration but instead responded exclusively to testosterone replacement. Considering that almost all proteins encoded by these genes are associated with the reversion of atrophy and may function as regulators of cell proliferation/growth, our results provide new perspectives on the existence of anti-atrogenes.\n\nDisease: ['Muscle wasting', 'Muscle']\nProteins: ['KLHL3', 'MK', 'LA', 'IGF1', 'PI15', 'SP5']\n"
+    },
+    "id": 8
+  },
+  {
+    "completions": [
+      {
+        "id": 9001,
+        "result": [],
+        "skipped": true
+      }
+    ],
+    "data": {
+      "text": "PMID: 22962313\nAbstract: In conducting genome-wide association studies (GWAS), analytical approaches leveraging biological information may further understanding of the pathophysiology of clinical traits. To discover novel associations with estimated glomerular filtration rate (eGFR), a measure of kidney function, we developed a strategy for integrating prior biological knowledge into the existing GWAS data for eGFR from the CKDGen Consortium. Our strategy focuses on single nucleotide polymorphism (SNPs) in genes that are connected by functional evidence, determined by literature mining and gene ontology (GO) hierarchies, to genes near previously validated eGFR associations. It then requires association thresholds consistent with multiple testing, and finally evaluates novel candidates by independent replication. Among the samples of European ancestry, we identified a genome-wide significant SNP in FBXL20 (P = 5.6 × 10(-9)) in meta-analysis of all available data, and additional SNPs at the INHBC, LRP2, PLEKHA1, SLC3A2 and SLC7A6 genes meeting multiple-testing corrected significance for replication and overall P-values of 4.5 × 10(-4)-2.2 × 10(-7). Neither the novel PLEKHA1 nor FBXL20 associations, both further supported by association with eGFR among African Americans and with transcript abundance, would have been implicated by eGFR candidate gene approaches. LRP2, encoding the megalin receptor, was identified through connection with the previously known eGFR gene DAB2 and extends understanding of the megalin system in kidney function. These findings highlight integration of existing genome-wide association data with independent biological knowledge to uncover novel candidate eGFR associations, including candidates lacking known connections to kidney-specific pathways. The strategy may also be applicable to other clinical phenotypes, although more testing will be needed to assess its potential for discovery in general.\n\nDisease: ['Aging']\nProteins: ['FBXL2', 'PLEK', 'INHBC', 'LRP2', 'SN', 'DAB2']\n"
+    },
+    "id": 9
+  }
+]

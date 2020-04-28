@@ -1,0 +1,200 @@
+,end,labels,start,text,ID
+0,240,['Gene'],235,TRIP4,PMID: 26924529
+1,250,['Gene'],244, ASCC1,PMID: 26924529
+2,320,['Protein'],280,nuclear activating signal cointegrator 1,PMID: 26924529
+3,327,['Protein'],322,ASC-1,PMID: 26924529
+4,263,['Contribute'],257,encode,PMID: 26924529
+5,366,['Assay/Technique'],346,autozygosity mapping,PMID: 26924529
+6,393,['Assay/Technique'],371,whole-exome sequencing,PMID: 26924529
+7,521,['Disease'],482, prenatal-onset spinal muscular atrophy,PMID: 26924529
+8,526,['Disease'],522,(SMA,PMID: 26924529
+9,561,['Disease'],529,multiple congenital contractures,PMID: 26924529
+10,597,['Disease'],563,arthrogryposis multiplex congenita,PMID: 26924529
+11,733,['Protein'],728,TRIP4,PMID: 26924529
+12,743,['Protein'],738,ASCC1,PMID: 26924529
+13,765,['Contribute'],759,led to,PMID: 26924529
+14,878,['Gene'],873,Trip4,PMID: 26924529
+15,888,['Gene'],883,Ascc1,PMID: 26924529
+16,953,['Life Stage'],927,17.5-day-old mouse embryos,PMID: 26924529
+17,1000,['Tissue Types/Organ System'],989,spinal cord,PMID: 26924529
+18,1007,['Tissue Types/Organ System'],1002,brain,PMID: 26924529
+19,1027,['Tissue Types/Organ System'],1009,paraspinal ganglia,PMID: 26924529
+20,1036,['Tissue Types/Organ System'],1029,thyroid,PMID: 26924529
+21,1062,['Tissue Types/Organ System'],1041, submandibular glands,PMID: 26924529
+22,1119,['Gene'],1114,trip4,PMID: 26924529
+23,1128,['Gene'],1123,ascc1,PMID: 26924529
+24,1151,['Prevent'],1142,disrupted,PMID: 26924529
+25,1276,['Pathway'],1200,α-motoneuron outgrowth and formation of myotomes and neuromuscular junctions,PMID: 26924529
+26,1284,['Disease'],1281,led,PMID: 26924529
+27,1305,['Disease'],1290,swimming defect,PMID: 26924529
+28,1319,['Life Stage'],1313,larvae,PMID: 26924529
+29,1340,['Assay/Technique'],1321,Immunoprecipitation,PMID: 26924529
+30,1351,['Protein'],1348,ASC,PMID: 26924529
+31,1421,['Protein'],1386,cysteine and glycine rich protein 1,PMID: 26924529
+32,1428,['Protein'],1423,CSRP1,PMID: 26924529
+33,1488,['Contribute'],1480,involved,PMID: 26924529
+34,1517,['Other_useful'],1492,spinal cord regeneration ,PMID: 26924529
+35,1554,['Protein'],1549,ASCC1,PMID: 26924529
+36,1587,['Prevent'],1574,downregulated,PMID: 26924529
+37,1669,['Gene'],1661,SERPINF1,PMID: 26924529
+38,1675,['Gene'],1671,DAB1,PMID: 26924529
+39,1683,['Gene'],1677,SEMA3D,PMID: 26924529
+40,1691,['Gene'],1685,SEMA3A,PMID: 26924529
+41,1737,['Gene'],1728,TNFRSF11B,PMID: 26924529
+42,1745,['Gene'],1739,RASSF2,PMID: 26924529
+43,1751,['Gene'],1747,STC1,PMID: 26924529
+44,1848,['Contribute'],1842,result,PMID: 26924529
+45,1906,['Disease'],1854,clinical syndrome affecting the neuromuscular system,PMID: 26924529
+0,63,['Protein'],38, CXC chemokine receptor 3,PMID: 15178708
+1,70,['Protein'],65,CXCR3,PMID: 15178708
+2,130,['Protein'],120,IFN- gamma,PMID: 15178708
+3,154,['Protein'],132,CXC chemokine ligand 9,PMID: 15178708
+4,161,['Protein'],156,CXCL9,PMID: 15178708
+5,195,['Protein'],163, IFN-inducible protein 10/CXCL10,PMID: 15178708
+6,258,['Protein'],245,I-TAC)/CXCL11,PMID: 15178708
+7,267,['Contribute'],260,attract,PMID: 15178708
+8,280,['Cell Type'],268,CXCR3+ cells,PMID: 15178708
+9,310,['Cell Type'],289,CD45RO+ T lymphocytes,PMID: 15178708
+10,319,['Cell Type'],311, B cells,PMID: 15178708
+11,345,['Cell Type'],325,natural killer cells,PMID: 15178708
+12,408,['Prevent'],397,antagonists,PMID: 15178708
+13,433,['Protein'],412, chemokine receptor 3,PMID: 15178708
+14,439,['Protein'],435,CCR3,PMID: 15178708
+15,527,['Protein'],522,I-TAC,PMID: 15178708
+16,580,['Contribute'],570,antagonist,PMID: 15178708
+17,589,['Protein'],585,CCR5,PMID: 15178708
+18,596,['Protein'],591,I-TAC,PMID: 15178708
+19,606,['Prevent'],597,inhibited,PMID: 15178708
+20,673,['Protein'],622,macrophage-inflammatory protein-1alpha (MIP-1alpha),PMID: 15178708
+21,695,['Protein'],674,CC chemokine ligand 3,PMID: 15178708
+22,701,['Protein'],697,CCL3,PMID: 15178708
+23,733,['Protein'],729,CCR5,PMID: 15178708
+24,750,['Cell Type'],741,monocytes,PMID: 15178708
+25,854,['Protein'],848,RANTES,PMID: 15178708
+26,860,['Protein'],856,CCL5,PMID: 15178708
+27,879,['Protein'],865,MIP-1beta/CCL4,PMID: 15178708
+28,910,['Protein'],906,CCR5,PMID: 15178708
+29,925,['Prevent'],916,inhibited,PMID: 15178708
+30,960,['Cell Type'],951,monocytes,PMID: 15178708
+31,1088,['Protein'],1083,I-TAC,PMID: 15178708
+32,1096,['Prevent'],1089,reduced,PMID: 15178708
+33,1101,['Protein'],1097,CCR5,PMID: 15178708
+34,1197,['Protein'],1194,K17,PMID: 15178708
+35,1202,['Protein'],1199,K49,PMID: 15178708
+36,1211,['Protein'],1208,Q51,PMID: 15178708
+37,1220,['Protein'],1215,I-TAC,PMID: 15178708
+38,1228,['Protein'],1224,CCR5,PMID: 15178708
+39,1189,['Protein'],1174, potential role,PMID: 15178708
+40,1190,['Contribute'],1189, ,PMID: 15178708
+41,1287,['Protein'],1281, I-TAC,PMID: 15178708
+42,1312,['Prevent'],1293,negative modulator ,PMID: 15178708
+43,1324,['Cell Type'],1315,leukocyte,PMID: 15178708
+44,1359,['Protein'],1354,I-TAC,PMID: 15178708
+45,1484,['Protein'],1480,CCR3,PMID: 15178708
+46,1497,['Protein'],1493,CCR5,PMID: 15178708
+0,57,['Disease'],34, Traumatic brain injury,PMID: 26894518
+1,62,['Disease'],59,TBI,PMID: 26894518
+2,91,['Disease'],86,death,PMID: 26894518
+3,112,['Disease'],96,severe morbidity,PMID: 26894518
+4,82,['Contribute'],68, leading cause,PMID: 26894518
+5,152,['Life Stage'],135,full-term infants,PMID: 26894518
+6,218,['Disease'],215,TBI,PMID: 26894518
+7,322,['Tissue Types/Organ System'],310,infant brain,PMID: 26894518
+8,579,['Assay/Technique'],576,MRI,PMID: 26894518
+9,600,['Assay/Technique'],584,serum biomarkers,PMID: 26894518
+10,657,['Disease'],654,TBI,PMID: 26894518
+11,684,['Cell Type'],663,preclinical rat model,PMID: 26894518
+12,761,['Protein'],724,neuro-reparative agent erythropoietin,PMID: 26894518
+13,766,['Protein'],763,EPO,PMID: 26894518
+14,780,['Contribute'],771,promoting,PMID: 26894518
+15,931,['Assay/Technique'],905,controlled cortical impact,PMID: 26894518
+16,936,['Assay/Technique'],933,CCI,PMID: 26894518
+17,979,['Life Stage'],955,postnatal Day (P)12 rats,PMID: 26894518
+18,1100,['Protein'],1097,EPO,PMID: 26894518
+19,1196,['Assay/Technique'],1166,administered intraperitoneally,PMID: 26894518
+20,1299,['Assay/Technique'],1259, immunoassay of injured cortex and serum,PMID: 26894518
+21,1373,['Assay/Technique'],1350,digitized gait analyses,PMID: 26894518
+22,1378,['Assay/Technique'],1375,MRI,PMID: 26894518
+23,1402,['Assay/Technique'],1383, serum immunoassay.,PMID: 26894518
+24,1553,['Assay/Technique'],1550,CCI,PMID: 26894518
+25,1727,['Disease'],1695,leptomeningeal cyst-like lesions,PMID: 26894518
+26,1745,['Assay/Technique'],1742,MRI,PMID: 26894518
+27,1694,['Contribute'],1685,developed,PMID: 26894518
+28,1805,['Assay/Technique'],1793,Western blot,PMID: 26894518
+29,1821,['Protein'],1818,EPO,PMID: 26894518
+30,1855,['Contribute'],1846,increased,PMID: 26894518
+31,1877,['Tissue Types/Organ System'],1863,injured cortex,PMID: 26894518
+32,1910,['Assay/Technique'],1897,Western blots,PMID: 26894518
+33,1931,['Contribute'],1923,elevated,PMID: 26894518
+34,1970,['Disease'],1932,ipsilateral cortex calpain degradation,PMID: 26894518
+35,2054,['Protein'],2019, potassium chloride cotransporter 2,PMID: 26894518
+36,2060,['Protein'],2056,KCC2,PMID: 26894518
+37,2122,['Protein'],2115,GFAP-DP,PMID: 26894518
+38,2113,['Protein'],2082,glial fibrillary acidic protein,PMID: 26894518
+39,2158,['Protein'],2154,GFAP,PMID: 26894518
+40,2238,['Assay/Technique'],2214,electrochemiluminescence,PMID: 26894518
+41,2264,['Contribute'],2256,revealed,PMID: 26894518
+42,2307,['Protein'],2280,tumor necrosis factor alpha,PMID: 26894518
+43,2313,['Protein'],2309,TNFα,PMID: 26894518
+44,2337,['Protein'],2328,chemokine,PMID: 26894518
+45,2359,['Protein'],2354,CXCL1,PMID: 26894518
+46,2525,['Protein'],2522,EPO,PMID: 26894518
+47,2557,['Assay/Technique'],2554,MRI,PMID: 26894518
+48,2576,['Tissue Types/Organ System'],2565,ipsilateral,PMID: 26894518
+49,2594,['Tissue Types/Organ System'],2581,contralateral,PMID: 26894518
+50,2601,['Tissue Types/Organ System'],2595,cortex,PMID: 26894518
+51,2914,['Protein'],2909,CXCL1,PMID: 26894518
+52,3187,['Assay/Technique'],3184,CCI,PMID: 26894518
+53,3253,['Protein'],3250,EPO,PMID: 26894518
+54,3244,['Contribute'],3236,resolved,PMID: 26894518
+0,39,['Disease'],25,Muscle wasting,PMID: 30639329
+1,50,['Disease'],43,atrophy,PMID: 30639329
+2,124,['Disease'],116,diabetes,PMID: 30639329
+3,105,['Contribute'],66,associated with human systemic diseases,PMID: 30639329
+4,132,['Disease'],126,cancer,PMID: 30639329
+5,152,['Disease'],138,kidney failure,PMID: 30639329
+6,206,['Assay/Technique'],181,transcriptional profiles ,PMID: 30639329
+7,296,['Tissue Types/Organ System'],278,atrophying muscles,PMID: 30639329
+8,394,['Disease'],380,muscle atrophy,PMID: 30639329
+9,490,['Assay/Technique'],474,cDNA microarrays,PMID: 30639329
+10,714,['Gene'],707,atrophy,PMID: 30639329
+11,742,['Gene'],738,APLN,PMID: 30639329
+12,749,['Gene'],744,DUSP5,PMID: 30639329
+13,755,['Gene'],751,IGF1,PMID: 30639329
+14,764,['Gene'],757,PIK3IP1,PMID: 30639329
+15,772,['Gene'],766,KLHL38,PMID: 30639329
+16,778,['Gene'],774,PI15,PMID: 30639329
+17,788,['Gene'],784,MKL1,PMID: 30639329
+18,805,['Prevent'],790,did not respond,PMID: 30639329
+19,841,['Contribute'],832,responded,PMID: 30639329
+20,881,['Assay/Technique'],856, testosterone replacement,PMID: 30639329
+21,819,['Assay/Technique'],809,castration,PMID: 30639329
+0,70,['Assay/Technique'],39,genome-wide association studies,PMID: 22962313
+1,76,['Assay/Technique'],72,GWAS,PMID: 22962313
+2,404,['Assay/Technique'],400,GWAS,PMID: 22962313
+3,501,['Assay/Technique'],471,single nucleotide polymorphism,PMID: 22962313
+4,507,['Assay/Technique'],503,SNPs,PMID: 22962313
+5,592,['Assay/Technique'],575,literature mining,PMID: 22962313
+6,627,['Assay/Technique'],596, gene ontology (GO) hierarchies,PMID: 22962313
+7,574,['Contribute'],560, determined by,PMID: 22962313
+8,917,['Gene'],911,FBXL20,PMID: 22962313
+9,1009,['Gene'],1004,INHBC,PMID: 22962313
+10,1015,['Gene'],1011,LRP2,PMID: 22962313
+11,1024,['Gene'],1017,PLEKHA1,PMID: 22962313
+12,1032,['Gene'],1026,SLC3A2,PMID: 22962313
+13,1043,['Gene'],1037,SLC7A6,PMID: 22962313
+14,1190,['Gene'],1183,PLEKHA1,PMID: 22962313
+15,1201,['Gene'],1195,FBXL20,PMID: 22962313
+16,1241,['Contribute'],1229,supported by,PMID: 22962313
+17,1263,['Assay/Technique'],1259,eGFR,PMID: 22962313
+18,282,['Assay/Technique'],278,eGFR,PMID: 22962313
+19,276,['Assay/Technique'],240,estimated glomerular filtration rate,PMID: 22962313
+20,1353,['Assay/Technique'],1349,eGFR,PMID: 22962313
+21,1385,['Protein'],1381,LRP2,PMID: 22962313
+22,1482,['Assay/Technique'],1478,eGFR,PMID: 22962313
+23,1492,['Protein'],1488,DAB2,PMID: 22962313
+24,1550,['Tissue Types/Organ System'],1544,kidney,PMID: 22962313
+25,304,['Tissue Types/Organ System'],298,kidney,PMID: 22962313
+26,418,['Assay/Technique'],414,eGFR,PMID: 22962313
+27,668,['Assay/Technique'],664,eGFR,PMID: 22962313
+28,1708,['Assay/Technique'],1704,eGFR,PMID: 22962313
